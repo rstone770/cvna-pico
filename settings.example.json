@@ -1,0 +1,6 @@
+{
+    "wlan_ssid": "",
+    "wlan_password": "",
+    "finhub_apikey": "",
+    "poll_interval": 180
+}
